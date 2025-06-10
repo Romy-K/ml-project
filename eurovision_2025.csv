@@ -1,0 +1,359 @@
+Year;Country ;Final_Place;Final_Points;Top 5;Top 10;Running_Order_Final;Grand_Final_Ind;Grand_Final_Ind;Big6_Ind;Semi_Final_Num;Semi_Place;Semi_Points;Running_Order_Semi;National_Final;Solo_Artist;Sex;Returning_Artist_Ind;Number of Members;Language1;Multiple_Language;National_Language_Used;EU;NATO;Country_Group;MyESB_Community;OGAE_Points;Qualification_Record
+2025;Albania;8;218;0;1;26;1;0;0;1;2;122;12;1;0;Mixed;0;2;Albanian;0;TRUE;0;1;Southern;4;158;0.55
+2025;Armenia;20;72;0;0;18;1;0;0;2;10;51;5;1;1;M ;0;1;English;0;FALSE;0;0;South-Eastern;30;0;0.8125
+2025;Australia;30;0;0;0;0;0;0;0;2;11;41;1;0;1;M;0;1;English;0;TRUE;0;0;Western;17;15;0.777777778
+2025;Austria;1;436;1;1;9;1;0;0;2;5;104;6;0;1;M;0;1;English;0;FALSE;1;0;Central;1;382;0.5625
+2025;Azerbaijan;30;0;0;0;0;0;0;0;1;15;7;10;0;0;M;0;3;English;0;FALSE;0;0;South-Eastern;32;0;0.8125
+2025;Belgium;30;0;0;0;0;0;0;0;1;14;23;9;1;1;M;0;1;English;0;FALSE;1;1;Western;22;17;0.45
+2025;Croatia;30;0;0;0;0;0;0;0;1;12;28;14;1;1;M;0;1;English;0;FALSE;1;1;Southern;34;0;0.5
+2025;Cyprus;30;0;0;0;0;0;0;0;1;11;44;15;0;1;M;0;1;English;0;FALSE;1;0;South-Eastern;27;0;0.631578947
+2025;Czech Republic;30;0;0;0;0;0;0;0;2;12;29;12;0;1;M;0;1;English;0;FALSE;1;1;Central;14;34;0.416666667
+2025;Denmark;23;47;0;0;22;1;0;0;2;8;61;11;1;1;F;0;1;English;0;FALSE;1;1;Northern;15;31;0.6
+2025;Estonia;3;356;1;1;3;1;0;0;1;5;113;4;1;1;M;0;1;Italian;1;FALSE;1;1;Northern;18;85;0.5
+2025;Finland;11;196;0;0;13;1;0;0;2;3;115;16;1;1;F;0;1;Finnish;0;TRUE;1;0;Northern;3;253;0.6
+2025;France;7;230;0;1;24;1;1;1;-1;-1;-1;-1;0;1;F;0;1;French;0;TRUE;1;1;Western;7;137;1
+2025;Georgia;30;0;0;0;0;0;0;0;2;15;28;10;0;1;F;0;1;Georgian;1;TRUE;0;0;South-Eastern;37;0;0.5
+2025;Germany;15;151;0;0;16;1;1;1;-1;-1;-1;-1;1;0;Mixed;0;2;German;0;TRUE;1;1;Central;8;44;1
+2025;Greece;6;231;0;1;17;1;0;0;2;4;112;7;1;1;F;0;1;Greek;0;TRUE;1;1;Southern;9;57;0.85
+2025;Iceland;25;33;0;0;10;1;0;0;1;6;97;1;1;0;M;0;2;Icelandic;0;TRUE;0;1;Northern;26;0;0.55
+2025;Ireland;30;0;0;0;0;0;0;0;2;13;28;3;1;1;F;0;1;English;0;FALSE;1;0;Western;29;6;0.45
+2025;Israel;2;357;1;1;4;1;0;0;2;1;203;14;0;1;F;0;1;English;1;TRUE;0;0;South-Eastern;21;58;0.65
+2025;Italy;5;256;1;1;14;1;1;1;-1;-1;-1;-1;1;1;M;0;1;Italian;0;TRUE;1;1;Western;20;8;1
+2025;Latvia;13;158;0;0;11;1;0;0;2;2;130;4;1;0;F;0;6;Latvian;0;TRUE;1;1;Northern;23;2;0.35
+2025;Lithuania;16;96;0;0;5;1;0;0;2;6;103;8;1;1;Mixed;0;4;Lithuanian;0;TRUE;1;1;Northern;16;1;0.65
+2025;Luxembourg;22;47;0;0;2;1;0;0;2;7;62;13;1;1;F;0;1;French;0;TRUE;1;1;Western;24;39;1
+2025;Malta;17;91;0;0;20;1;0;0;2;9;53;9;1;1;F;0;1;English;0;FALSE;1;0;Western;5;164;0.5
+2025;Montenegro;30;0;0;0;0;0;0;0;2;16;12;2;1;1;F;1;1;Montenegrin;0;TRUE;0;1;Southern;33;0;0.166666667
+2025;Netherlands;12;175;0;0;12;1;0;0;1;3;121;13;0;1;M;0;1;French;1;FALSE;1;1;Western;10;278;0.5
+2025;Norway;18;89;0;0;1;1;0;0;1;8;82;8;1;1;M;0;1;English;0;FALSE;0;1;Northern;6;71;0.85
+2025;Poland;14;156;0;0;15;1;0;0;1;7;85;2;1;1;F;1;1;Polish;1;TRUE;1;1;Eastern;11;8;0.444444444
+2025;Portugal;21;50;0;0;21;1;0;0;1;9;56;7;1;0;M;0;5;Portuguese;0;TRUE;1;1;Western;28;0;0.5
+2025;San Marino;26;27;0;0;25;1;0;0;1;10;46;11;1;1;M;0;1;Italian;0;TRUE;0;0;Western;25;36;0.214285714
+2025;Serbia;30;0;0;0;0;0;0;0;2;14;28;15;1;1;M;0;1;Serbian;0;TRUE;0;0;Southern;36;0;0.8125
+2025;Slovenia;30;0;0;0;0;0;0;0;1;13;23;3;1;1;M;0;1;English;0;FALSE;1;1;Central;35;1;0.4
+2025;Spain;24;37;0;0;6;1;1;1;-1;-1;-1;-1;1;1;F;0;1;Spanish;0;TRUE;1;1;Western;13;136;1
+2025;Sweden;4;321;1;1;23;1;0;0;1;4;118;6;1;0;M;0;3;Swedish;0;TRUE;1;0;Northern;2;421;0.95
+2025;Switzerland;10;214;0;1;19;1;1;1;-1;-1;-1;-1;0;1;F;0;1;French;0;FALSE;0;0;Central;12;44;0.45
+2025;Ukraine;9;218;0;1;7;1;0;0;1;1;137;5;1;0;M;0;3;Ukrainian;1;TRUE;0;0;Eastern;19;1;1
+2025;United Kingdom;19;88;0;0;8;1;1;1;;-1;-1;-1;0;0;F;0;3;English;0;TRUE;0;1;Western;31;7;1
+2024;Albania;;;;;;0;0;;2;15;14;2;1;1;F;0;1;English;0;FALSE;0;1;Southern;34;0;0.578947368
+2024;Armenia;8;183;;1;19;1;0;;2;3;137;8;0;0;Mixed;0;2;Armenian;0;TRUE;0;0;South-Eastern;20;2;0.8
+2024;Australia;;;;;;0;0;;1;11;41;13;0;0;M ;0;2;English;1;TRUE;0;0;Western;32;5;875
+2024;Austria;24;24;;;26;1;0;;2;9;46;6;0;1;F;0;1;English;0;FALSE;1;0;Central;9;129;0.533333333
+2024;Azerbaijan;;;;;;0;0;;1;14;11;12;0;0;M;0;2;English;1;TRUE;0;0;South-Eastern;29;3;0.866666667
+2024;Belgium;;;;;;0;0;;2;13;18;12;0;1;M;0;1;English;0;FALSE;1;1;Western;5;223;0.473684211
+2024;Croatia;2;547;1;1;23;1;0;;1;1;177;7;1;1;M;0;1;English;0;FALSE;1;1;Southern;3;356;0.470588235
+2024;Cyprus;15;78;;;20;1;0;;1;6;67;1;0;1;F;0;1;English;0;FALSE;1;0;South-Eastern;19;4;0.611111111
+2024;Czech Republic;;;;;;0;0;;2;11;38;5;1;1;F;0;1;English;0;FALSE;1;1;Central;25;0;0.454545455
+2024;Denmark;;;;;;0;0;;2;12;36;7;1;1;F;0;1;English;0;FALSE;1;1;Northern;24;12;0.631578947
+2024;Estonia;20;37;;;9;1;0;;2;6;79;13;1;0;M;0;6;Estonian;0;TRUE;1;1;Northern;21;5;0.473684211
+2024;Finland;19;38;;;17;1;0;;1;7;59;10;1;0;M;0;2;English;0;FALSE;1;0;Northern;28;0;0.578947368
+2024;France;4;445;1;1;25;1;1;;;;;;0;1;M;0;1;French;0;TRUE;1;1;Western;11;188;
+2024;Georgia;21;34;;;24;1;0;;2;8;54;11;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;18;1;0.466666667
+2024;Germany;12;117;;;3;1;1;;;;;;1;1;M;0;1;English;0;FALSE;1;1;Central;31;0;
+2024;Greece;11;126;;;12;1;0;;2;5;86;3;0;1;F;0;1;Greek;0;TRUE;1;1;Southern;4;91;0.842105263
+2024;Iceland;;;;;;0;0;;1;15;3;8;1;1;F;1;1;English;0;FALSE;0;1;Northern;36;0;0.578947368
+2024;Ireland;6;278;;1;10;1;0;;1;3;124;4;1;1;F;0;1;English;0;FALSE;1;0;Western;22;0;0.421052632
+2024;Israel;5;375;1;1;6;1;0;;2;1;194;14;1;1;F;0;1;English;1;TRUE;0;0;South-Eastern;17;53;0.631578947
+2024;Italy;7;268;;1;15;1;1;;;;;;1;1;F;0;1;Italian;0;TRUE;1;1;Western;1;338;
+2024;Latvia;16;64;;;11;1;0;;2;7;72;9;1;1;M;0;1;English;0;FALSE;1;1;Northern;35;0;0.315789474
+2024;Lithuania;14;90;;;7;1;0;;1;4;119;3;1;1;M;0;1;Lithuanian;0;TRUE;1;1;Northern;7;108;0.631578947
+2024;Luxembourg;13;103;;;4;1;0;;1;5;117;15;1;1;F;0;1;French;1;TRUE;1;1;Western;23;12;
+2024;Malta;;;;;;0;0;;2;16;13;1;1;1;F;0;1;English;0;FALSE;1;0;Western;30;0;0.526315789
+2024;Moldova;;;;;;0;0;;1;13;20;11;1;1;F;1;1;English;0;FALSE;0;0;Eastern;37;0;0.684210526
+2024;Netherlands;;;;;5;1;0;;2;2;182;16;0;1;M;0;1;Dutch;0;TRUE;1;1;Western;6;96;0.473684211
+2024;Norway;25;16;;;14;1;0;;2;10;43;15;1;0;Mixed;0;5;Norwegian;0;TRUE;0;1;Northern;10;43;0.842105263
+2024;Poland;;;;;;0;0;;1;12;35;6;0;1;F;0;1;English;0;FALSE;1;1;Eastern;26;1;0.470588235
+2024;Portugal;10;152;;1;18;1;0;;1;8;58;14;1;1;F;0;1;Portuguese;0;TRUE;1;1;Western;27;0;0.470588235
+2024;San Marino;;;;;;0;0;;2;14;16;10;1;0;Mixed;0;4;Spanish;1;FALSE;0;0;Western;33;0;0.230769231
+2024;Serbia;17;54;;;16;1;0;;1;10;47;2;1;1;F;0;1;Serbian;0;TRUE;0;0;Southern;13;7;0.8
+2024;Slovenia;23;27;;;22;1;0;;1;9;51;9;0;1;F;0;1;Slovene;0;TRUE;1;1;Central;15;10;0.368421053
+2024;Spain;22;30;;;8;1;1;;;;;;1;0;Mixed;0;2;Spanish;0;TRUE;1;1;Western;14;103;
+2024;Sweden;9;174;;1;1;1;1;;;;;;1;0;M;0;2;English;0;FALSE;1;0;Northern;12;59;0.947368421
+2024;Switzerland;1;591;1;1;21;1;0;;2;4;132;4;0;1;M;0;1;English;0;FALSE;0;0;Central;2;290;0.421052632
+2024;Ukraine;3;453;1;1;2;1;0;;1;2;173;5;1;0;F;0;2;Ukrainian;1;TRUE;0;0;Eastern;8;150;1
+2024;United Kingdom;18;46;;;13;1;1;;;;;;0;1;M;0;1;English;0;TRUE;0;1;Western;16;89;
+2023;Albania;22;76;0;0;10;1;0;;2;9;83;14;1;0;Mixed;0;6;Albanian;0;TRUE;0;1;Southern;29;0;0.555555556
+2023;Armenia;14;122;0;0;17;1;0;;2;6;99;2;0;1;F;0;1;English;1;FALSE;0;0;South-Eastern;9;7;0.785714286
+2023;Australia;9;151;0;1;15;1;0;;2;1;149;16;0;0;Mixed;0;5;English;0;TRUE;0;0;Western;17;3;0.857142857
+2023;Austria;15;120;0;0;1;1;0;;2;2;137;13;0;0;F;0;2;English;1;FALSE;1;0;Central;4;228;0.5
+2023;Azerbaijan;;;;;;0;0;;1;14;4;12;0;0;M ;0;2;English;0;FALSE;0;0;South-Eastern;35;4;0.928571429
+2023;Belgium;7;182;0;1;16;1;0;;2;8;90;5;1;1;M;0;1;English;0;FALSE;1;1;Western;20;21;0.444444444
+2023;Croatia;13;123;0;0;25;1;0;;1;8;76;7;1;0;M;0;6;Croatian;0;TRUE;1;1;Southern;26;1;0.4375
+2023;Cyprus;12;126;0;0;7;1;0;;2;7;94;6;0;1;M;0;1;English;0;FALSE;1;0;South-Eastern;18;14;0.588235294
+2023;Czech Republic;10;129;0;1;14;1;0;;1;4;110;13;1;0;F;0;6;English;1;FALSE;1;1;Central;8;91;0.4
+2023;Denmark;;;;;;0;0;;2;14;6;1;1;1;M;0;1;English;0;FALSE;1;1;Northern;31;0;0.666666667
+2023;Estonia;8;168;0;1;12;1;0;;2;10;74;4;1;1;F;0;1;English;0;FALSE;1;1;Northern;14;6;0.444444444
+2023;Finland;2;526;1;1;13;1;0;;1;1;177;15;1;1;M;0;1;Finnish;0;TRUE;1;0;Northern;1;394;0.555555556
+2023;France;16;104;0;0;6;1;1;;;;;;0;1;F;0;1;French;0;TRUE;1;1;Western;5;302;
+2023;Georgia;;;;;;0;0;;2;12;33;11;1;1;F;0;1;English;0;FALSE;0;0;South-Eastern;23;3;0.5
+2023;Germany;26;18;0;0;21;1;1;;;;;;1;0;M;0;6;English;0;FALSE;1;1;Central;22;2;
+2023;Greece;;;;;;0;0;;2;13;14;8;0;1;M;0;1;English;0;FALSE;1;1;Southern;34;1;0.888888889
+2023;Iceland;;;;;;0;0;;2;11;44;7;1;1;F;0;1;English;0;FALSE;0;1;Northern;30;0;0.611111111
+2023;Ireland;;;;;;0;0;;1;12;10;6;1;0;M;0;4;English;0;FALSE;1;0;Western;33;0;0.444444444
+2023;Israel;3;362;1;1;23;1;0;;1;3;127;9;0;1;F;0;1;English;1;TRUE;0;0;South-Eastern;6;83;0.611111111
+2023;Italy;4;350;1;1;11;1;1;;;;;;1;1;M;1;1;Italian;0;TRUE;1;1;Western;12;226;
+2023;Latvia;;;;;;0;0;;1;11;34;4;1;0;M;0;4;English;1;TRUE;1;1;Northern;21;0;0.333333333
+2023;Lithuania;11;127;0;0;22;1;0;;2;4;110;15;1;1;F;1;1;English;1;TRUE;1;1;Northern;25;5;0.611111111
+2023;Malta;;;;;;0;0;;1;15;3;2;1;0;M;0;3;English;0;FALSE;1;0;Western;32;2;0.555555556
+2023;Moldova;18;96;0;0;18;1;0;;1;5;109;10;1;1;M;1;1;Romanian;0;FALSE;0;0;Eastern;15;32;0.666666667
+2023;Netherlands;;;;;;0;0;;1;13;7;14;0;0;Mixed;0;2;English;0;FALSE;1;1;Western;27;5;0.5
+2023;Norway;5;268;1;1;20;1;0;;1;6;102;1;1;1;F;0;1;English;1;FALSE;0;1;Northern;3;263;0.833333333
+2023;Poland;19;93;0;0;4;1;0;;2;3;124;9;1;1;F;0;1;English;0;FALSE;1;1;Eastern;28;2;0.4375
+2023;Portugal;23;59;0;0;2;1;0;;1;9;74;5;1;1;F;0;1;Portuguese;0;TRUE;1;1;Western;16;14;0.4375
+2023;Romania;;;;;;0;0;;2;15;0;3;1;1;M;0;1;Romanian;1;TRUE;1;1;Eastern;36;0;0.823529412
+2023;San Marino;;;;;;0;0;;2;16;0;12;1;0;M;0;4;English;0;FALSE;0;0;Western;37;0;0.25
+2023;Serbia;24;30;0;0;5;1;0;;1;10;37;3;1;1;M;0;1;Serbian;1;TRUE;0;0;Southern;13;17;0.785714286
+2023;Slovenia;21;78;0;0;24;1;0;;2;5;103;10;0;0;M;0;5;Slovene;0;TRUE;1;1;Central;10;34;0.333333333
+2023;Spain;17;100;0;0;8;1;1;;;;;;1;1;F;0;1;Spanish;0;TRUE;1;1;Western;7;76;
+2023;Sweden;1;583;1;1;9;1;0;;1;2;135;11;1;1;F;1;1;English;0;FALSE;1;0;Northern;2;423;0.944444444
+2023;Switzerland;20;92;0;0;3;1;0;;1;7;97;8;0;1;M;0;1;English;0;FALSE;0;0;Central;19;23;0.388888889
+2023;Ukraine;6;243;0;1;19;1;1;;;;;;1;0;M;0;2;English;1;FALSE;0;0;Eastern;24;0;1
+2023;United Kingdom;25;24;0;0;26;1;1;;;;;;0;1;F;0;1;English;0;TRUE;0;1;Western;11;154;
+2022;Albania;;;0;0;;0;0;;1;12;58;1;1;1;F;0;1;Albanian;1;TRUE;0;1;Southern;14;88;0.588235294
+2022;Armenia;20;61;0;0;8;1;0;;1;5;187;17;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;18;0;0.769230769
+2022;Australia;15;125;0;0;21;1;0;;2;2;243;8;1;1;M;0;1;English;0;TRUE;0;0;Western;17;16;0.833333333
+2022;Austria;;;0;0;;0;0;;1;15;42;13;0;0;Mixed;0;2;English;0;FALSE;1;0;Central;16;73;0.538461538
+2022;Azerbaijan;16;106;0;0;15;1;0;;2;10;96;4;0;1;M;0;1;English;0;FALSE;0;0;South-Eastern;26;0;0.923076923
+2022;Belgium;19;64;0;0;16;1;0;;2;8;151;16;0;1;M;0;1;English;0;FALSE;1;1;Western;24;2;0.411764706
+2022;Bulgaria;;;0;0;;0;0;;1;16;29;7;0;0;Mixed;1;6;English;0;FALSE;1;1;Eastern;40;0;0.384615385
+2022;Croatia;;;0;0;;0;0;;1;11;75;11;1;1;F;0;1;English;1;TRUE;1;1;Southern;33;4;0.466666667
+2022;Cyprus;;;0;0;;0;0;;2;12;63;9;0;1;F;0;1;English;1;TRUE;1;0;South-Eastern;15;59;625
+2022;Czech Republic;22;38;0;0;1;1;0;;2;4;227;18;1;0;Mixed;0;3;English;0;FALSE;1;1;Central;12;35;0.333333333
+2022;Denmark;;;0;0;;0;0;;1;13;55;12;1;0;F;0;4;English;0;FALSE;1;1;Northern;35;0;0.705882353
+2022;Estonia;13;141;0;0;25;1;0;;2;5;209;12;1;1;M;0;1;English;0;FALSE;1;1;Northern;19;54;0.411764706
+2022;Finland;21;38;0;0;4;1;0;;2;7;162;1;1;0;Mixed;0;4;English;0;FALSE;1;0;Northern;22;37;0.529411765
+2022;France;24;17;0;0;6;1;1;;;;;;1;0;Mixed;0;4;Breton;0;FALSE;1;1;Western;10;175;
+2022;Georgia;;;0;0;;0;0;;2;18;22;5;0;0;M;1;5;English;0;FALSE;0;0;South-Eastern;39;0;0.538461538
+2022;Germany;25;6;0;0;13;1;1;;;;;;1;1;M;0;1;English;0;FALSE;1;1;Central;28;2;
+2022;Greece;8;215;0;1;17;1;0;;1;3;211;15;0;1;F;0;1;English;0;FALSE;1;1;Southern;6;38;0.882352941
+2022;Iceland;23;20;0;0;18;1;0;;1;10;103;14;1;0;F;0;3;Icelandic;0;TRUE;0;1;Northern;27;0;0.588235294
+2022;Ireland;;;0;0;;0;0;;2;15;47;10;1;1;F;0;1;English;0;FALSE;1;0;Western;25;0;0.470588235
+2022;Israel;;;0;0;;0;0;;2;13;61;2;1;1;M;0;1;English;1;TRUE;0;0;South-Eastern;32;0;0.647058824
+2022;Italy;6;268;0;1;9;1;1;;;;;;1;0;M;1;2;Italian;0;TRUE;1;1;Western;4;387;
+2022;Latvia;;;0;0;;0;0;;1;14;55;2;1;0;M;0;6;English;0;FALSE;1;1;Northern;31;7;0.352941176
+2022;Lithuania;14;128;0;0;14;1;0;;1;7;159;3;1;1;F;0;1;Lithuanian;0;TRUE;1;1;Northern;21;11;0.588235294
+2022;Malta;;;0;0;;0;0;;2;16;47;6;1;1;F;0;1;English;0;FALSE;1;0;Western;37;2;0.588235294
+2022;Moldova;7;253;0;1;19;1;0;;1;8;154;9;0;0;M;1;6;Romanian;1;FALSE;0;0;Eastern;23;6;0.647058824
+2022;Montenegro;;;0;0;;0;0;;2;17;33;15;0;1;F;0;1;English;1;FALSE;0;1;Southern;36;0;0.181818182
+2022;Netherlands;11;171;0;0;11;1;0;;1;2;221;8;0;1;F;0;1;Dutch;0;TRUE;1;1;Western;3;218;0.470588235
+2022;North Macedonia;;;0;0;;0;0;;2;11;76;11;1;1;F;0;1;English;0;FALSE;0;1;Southern;38;0;0.352941176
+2022;Norway;10;182;0;1;7;1;0;;1;6;177;16;1;0;M;0;2;English;0;FALSE;0;1;Northern;9;120;0.823529412
+2022;Poland;12;151;0;0;23;1;0;;2;6;198;14;1;1;M;0;1;English;0;FALSE;1;1;Eastern;11;144;0.4
+2022;Portugal;9;207;0;1;3;1;0;;1;4;208;10;1;1;F;0;1;English;1;TRUE;1;1;Western;13;9;0.4
+2022;Romania;18;65;0;0;2;1;0;;2;9;118;13;1;1;M;0;1;English;1;FALSE;1;1;Eastern;20;2;0.8125
+2022;San Marino;;;0;0;;0;0;;2;14;50;7;1;1;M;0;1;Italian;1;TRUE;0;0;Western;30;0;0.272727273
+2022;Serbia;5;312;1;1;24;1;0;;2;3;237;3;1;1;F;0;1;Serbian;1;TRUE;0;0;Southern;8;53;0.769230769
+2022;Slovenia;;;0;0;;0;0;;1;17;15;5;1;0;Mixed;0;5;Slovene;0;TRUE;1;1;Central;29;0;0.352941176
+2022;Spain;3;459;1;1;10;1;1;;;;;;1;1;F;0;1;Spanish;1;TRUE;1;1;Western;1;294;
+2022;Sweden;4;438;1;1;20;1;0;;2;1;396;17;1;1;F;0;1;English;0;FALSE;1;0;Northern;2;393;0.941176471
+2022;Switzerland;17;78;0;0;5;1;0;;1;9;118;4;0;1;M;0;1;English;0;FALSE;0;0;Central;34;1;0.352941176
+2022;Ukraine;1;631;1;1;12;1;0;;1;1;337;6;1;0;M;1;6;Ukrainian;0;TRUE;0;0;Eastern;7;60;1
+2022;United Kingdom;2;466;1;1;22;1;1;;;;;;0;1;M;0;1;English;0;TRUE;0;1;Western;5;204;
+2021;Albania;21;57;0;0;2;1;0;;2;10;112;11;1;1;F;0;1;Albanian;0;TRUE;0;1;Southern;24;0;0.6
+2021;Australia;;;0;0;;0;0;;1;14;28;5;0;1;F;0;1;English;0;TRUE;0;0;Western;22;4;1
+2021;Austria;;;0;0;;0;0;;2;12;66;5;0;1;M;0;1;English;0;FALSE;1;0;Central;34;0;0.583333333
+2021;Azerbaijan;20;65;0;0;21;1;0;;1;8;138;14;0;1;F;0;1;English;1;TRUE;0;0;South-Eastern;10;59;0.916666667
+2021;Belgium;19;74;0;0;4;1;0;;1;9;117;11;0;0;Mixed;0;3;English;0;FALSE;1;1;Western;17;7;375
+2021;Bulgaria;11;170;0;0;17;1;0;;2;3;250;13;0;1;F;0;1;English;0;FALSE;1;1;Eastern;15;7;0.333333333
+2021;Croatia;;;0;0;;0;0;;1;11;110;10;1;1;F;0;1;English;1;TRUE;1;1;Southern;20;30;0.5
+2021;Cyprus;16;94;0;0;1;1;0;;1;6;170;8;0;1;F;0;1;English;1;FALSE;1;0;South-Eastern;5;238;0.6
+2021;Czech Republic;;;0;0;;0;0;;2;15;23;3;0;1;M;0;1;English;1;TRUE;1;1;Central;29;0;375
+2021;Denmark;;;0;0;;0;0;;2;11;89;17;1;0;M ;0;2;Danish;0;TRUE;1;1;Northern;32;32;0.75
+2021;Estonia;;;0;0;;0;0;;2;13;58;2;1;1;M;0;1;English;0;FALSE;1;1;Northern;36;4;0.4375
+2021;Finland;6;301;0;1;16;1;0;;2;5;234;14;1;0;M;0;6;English;0;FALSE;1;0;Northern;8;37;0.5
+2021;France;2;499;1;1;20;1;1;;;;;;1;1;F;0;1;French;0;TRUE;1;1;Western;3;318;
+2021;Georgia;;;0;0;;0;0;;2;16;16;10;0;1;M;0;1;English;0;FALSE;0;0;South-Eastern;39;0;0.583333333
+2021;Germany;25;3;0;0;15;1;1;;;;;;0;1;M;0;1;English;1;TRUE;1;1;Central;30;0;
+2021;Greece;10;170;0;1;10;1;0;;2;6;184;4;0;1;F;0;1;English;0;FALSE;1;1;Southern;13;58;875
+2021;Iceland;4;378;1;1;12;1;0;;2;2;288;8;0;0;Mixed;0;6;English;0;FALSE;0;1;Northern;11;50;0.5625
+2021;Ireland;;;0;0;;0;0;;1;16;20;7;0;1;F;0;1;English;0;FALSE;1;0;Western;25;10;0.5
+2021;Israel;17;93;0;0;3;1;0;;1;5;192;12;1;1;F;0;1;English;1;TRUE;0;0;South-Eastern;19;14;625
+2021;Italy;1;524;1;1;24;1;1;;;;;;1;0;Mixed;0;4;Italian;0;TRUE;1;1;Western;1;81;
+2021;Latvia;;;0;0;;0;0;;2;17;14;15;0;1;F;0;1;English;0;FALSE;1;1;Northern;31;3;375
+2021;Lithuania;8;220;0;1;18;1;0;;1;4;203;1;1;0;M;0;3;English;0;FALSE;1;1;Northern;9;301;0.5625
+2021;Malta;7;255;0;1;6;1;0;;1;1;325;16;0;1;F;0;1;English;1;FALSE;1;0;Western;6;363;0.5625
+2021;Moldova;13;115;0;0;14;1;0;;2;7;179;7;0;1;F;1;1;English;0;FALSE;0;0;Eastern;23;17;625
+2021;Netherlands;23;11;0;0;23;1;1;;;;;;0;1;M;0;1;English;1;FALSE;1;1;Western;33;0;0.4375
+2021;North Macedonia;;;0;0;;0;0;;1;15;23;6;0;1;M;0;1;English;0;FALSE;0;1;Southern;38;0;375
+2021;Norway;18;75;0;0;22;1;0;;1;10;115;9;1;1;M;0;1;English;0;FALSE;0;1;Northern;18;19;0.8125
+2021;Poland;;;0;0;;0;0;;2;14;35;6;0;1;M;0;1;English;0;FALSE;1;1;Eastern;37;0;0.428571429
+2021;Portugal;12;153;0;0;7;1;0;;2;4;239;12;1;0;M;0;5;English;0;FALSE;1;1;Western;26;0;0.357142857
+2021;Romania;;;0;0;;0;0;;1;12;85;13;0;1;F;0;1;English;0;FALSE;1;1;Eastern;14;39;0.866666667
+2021;Russia;9;204;0;1;5;1;0;;1;3;225;3;1;1;F;0;1;Russian;1;TRUE;0;0;Eastern;12;23;0.933333333
+2021;San Marino;22;50;0;0;26;1;0;;2;9;118;1;0;0;Mixed;1;2;English;1;TRUE;0;0;Western;7;237;0.2
+2021;Serbia;15;102;0;0;8;1;0;;2;8;124;9;0;0;F;1;3;Serbian;1;TRUE;0;0;Southern;16;11;0.75
+2021;Slovenia;;;0;0;;0;0;;1;13;44;2;0;1;F;0;1;English;0;FALSE;1;1;Central;35;0;375
+2021;Spain;24;6;0;0;13;1;1;;;;;;1;1;M;0;1;Spanish;0;TRUE;1;1;Western;27;1;
+2021;Sweden;14;109;0;0;25;1;0;;1;7;142;4;1;1;M;0;1;English;0;FALSE;1;0;Northern;21;105;0.9375
+2021;Switzerland;3;432;1;1;11;1;0;;2;1;291;16;0;1;M;0;1;French;0;FALSE;0;0;Central;2;358;0.3125
+2021;Ukraine;5;364;1;1;19;1;0;;1;2;267;15;0;0;Mixed;0;4;Ukrainian;0;TRUE;0;0;Eastern;4;64;1
+2021;United Kingdom;26;0;0;0;9;1;1;;;;;;0;1;M;0;1;English;0;TRUE;0;1;Western;28;4;
+2019;Albania;17;90;0;0;2;1;0;;2;9;96;14;1;1;F;0;1;Albanian;0;TRUE;0;1;Southern;16;10;0.533333333
+2019;Armenia;;;0;0;;0;0;;2;16;49;1;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;18;9;0.833333333
+2019;Australia;9;284;0;0;25;1;0;;1;1;261;12;1;1;F;0;1;English;0;TRUE;0;0;Western;10;2;1
+2019;Austria;;;0;0;;0;0;;2;17;21;9;0;1;F;0;1;English;0;FALSE;1;0;Central;33;0;0.636363636
+2019;Azerbaijan;8;302;0;0;20;1;0;;2;5;224;18;0;1;M;0;1;English;0;FALSE;0;0;South-Eastern;8;123;0.909090909
+2019;Belarus;24;31;0;0;19;1;0;;1;10;122;8;1;1;F;0;1;English;0;FALSE;0;0;Eastern;21;0;0.333333333
+2019;Belgium;;;0;0;;0;0;;1;13;70;10;0;1;M;0;1;English;0;FALSE;1;1;Western;22;17;0.4
+2019;Croatia;;;0;0;;0;0;;2;14;64;10;1;1;M;0;1;English;1;TRUE;1;1;Southern;36;0;0.538461538
+2019;Cyprus;13;109;0;0;11;1;0;;1;9;149;1;0;1;F;0;1;English;0;FALSE;1;0;South-Eastern;5;218;0.571428571
+2019;Czech Republic;11;157;0;0;3;1;0;;1;2;242;6;1;0;M;0;3;English;0;FALSE;1;1;Central;20;6;0.285714286
+2019;Denmark;12;120;0;0;6;1;0;;2;10;94;7;1;1;F;0;1;English;1;TRUE;1;1;Northern;26;19;0.733333333
+2019;Estonia;20;76;0;0;18;1;0;;1;4;198;14;1;1;M;0;1;English;0;FALSE;1;1;Northern;25;7;0.4
+2019;Finland;;;0;0;;0;0;;1;17;23;3;1;0;M;0;2;English;0;FALSE;1;0;Northern;38;0;0.533333333
+2019;France;16;105;0;0;21;1;1;;;;;;1;1;M;0;1;French;1;TRUE;1;1;Western;13;25;
+2019;Georgia;;;0;0;;0;0;;1;14;62;11;1;1;M;0;1;Georgian;1;TRUE;0;0;South-Eastern;39;0;0.636363636
+2019;Germany;25;24;0;0;4;1;1;;;;;;1;0;F;0;2;English;0;FALSE;1;1;Central;31;0;
+2019;Greece;21;74;0;0;13;1;0;;1;5;185;16;0;1;F;0;1;English;0;FALSE;1;1;Southern;12;89;0.866666667
+2019;Hungary;;;0;0;;0;0;;1;12;97;7;1;1;M;1;1;Hungarian;0;TRUE;1;1;Central;30;2;0.833333333
+2019;Iceland;10;232;0;0;17;1;0;;1;3;221;13;1;0;M;0;3;Icelandic;0;TRUE;0;1;Northern;6;114;0.533333333
+2019;Ireland;;;0;0;;0;0;;2;18;16;2;0;1;F;0;1;English;0;FALSE;1;0;Western;34;0;0.533333333
+2019;Israel;23;35;0;0;14;1;1;;;;;;1;1;M;0;1;English;0;FALSE;0;0;South-Eastern;32;5;0.6
+2019;Italy;2;472;0;0;22;1;1;;;;;;1;1;M;0;1;Italian;1;TRUE;1;1;Western;2;411;
+2019;Latvia;;;0;0;;0;0;;2;15;50;5;1;0;Mixed;0;4;English;0;FALSE;1;1;Northern;35;2;0.4
+2019;Lithuania;;;0;0;;0;0;;2;11;93;12;1;1;M;0;1;English;0;FALSE;1;1;Northern;37;0;0.6
+2019;Malta;14;107;0;0;1;1;0;;2;8;157;11;1;1;F;0;1;English;0;FALSE;1;0;Western;7;64;0.533333333
+2019;Moldova;;;0;0;;0;0;;2;12;85;3;1;1;F;0;1;English;0;FALSE;0;0;Eastern;40;0;0.666666667
+2019;Montenegro;;;0;0;;0;0;;1;16;46;2;1;0;Mixed;0;6;English;0;FALSE;0;1;Southern;41;0;0.090909091
+2019;Netherlands;1;498;0;0;12;1;0;;2;1;280;16;0;1;M;0;1;English;0;FALSE;1;1;Western;1;401;0.4
+2019;North Macedonia;7;305;0;0;8;1;0;;2;2;239;17;0;1;F;1;1;English;0;FALSE;0;1;Southern;17;13;0.333333333
+2019;Norway;6;331;0;0;15;1;0;;2;7;210;15;1;0;Mixed;0;3;English;1;FALSE;0;1;Northern;4;224;0.8
+2019;Poland;;;0;0;;0;0;;1;11;120;4;0;1;F;0;1;Polish;1;TRUE;1;1;Eastern;29;7;0.461538462
+2019;Portugal;;;0;0;;0;0;;1;15;51;15;1;1;M;0;1;Portuguese;0;TRUE;1;1;Western;19;19;0.384615385
+2019;Romania;;;0;0;;0;0;;2;13;71;6;1;1;F;0;1;English;0;FALSE;1;1;Eastern;23;0;0.928571429
+2019;Russia;3;370;0;0;5;1;0;;2;6;217;13;0;1;M;1;1;English;0;FALSE;0;0;Eastern;9;106;0.928571429
+2019;San Marino;19;77;0;0;7;1;0;;1;8;150;17;0;1;M;1;1;English;1;FALSE;0;0;Western;28;23;0.111111111
+2019;Serbia;18;89;0;0;23;1;0;;1;7;156;9;1;1;F;1;1;Serbian;1;TRUE;0;0;Southern;24;0;0.727272727
+2019;Slovenia;15;105;0;0;10;1;0;;1;6;167;5;1;0;Mixed;0;2;Slovene;0;TRUE;1;1;Central;15;22;0.333333333
+2019;Spain;22;54;0;0;26;1;1;;;;;;1;1;M;0;1;Spanish;0;TRUE;1;1;Western;14;69;
+2019;Sweden;5;334;0;0;9;1;0;;2;3;238;8;1;1;M;0;1;English;0;FALSE;1;0;Northern;11;191;0.933333333
+2019;Switzerland;4;364;0;0;24;1;0;;2;4;232;4;0;1;M;0;1;English;0;FALSE;0;0;Central;3;406;0.266666667
+2019;United Kingdom;26;11;0;0;16;1;1;;;;;;1;1;M;0;1;English;0;TRUE;0;1;Western;27;6;
+2018;Albania;11;184;0;0;12;1;0;;1;8;162;3;1;1;M;0;1;Albanian;0;TRUE;0;1;Southern;22;0;0.5
+2018;Armenia;;;0;0;;0;0;;1;15;79;16;1;1;M;0;1;Armenian;0;TRUE;0;0;South-Eastern;36;0;0.909090909
+2018;Australia;20;99;0;0;16;1;0;;2;4;212;9;0;1;F;0;1;English;0;TRUE;0;0;Western;14;202;1
+2018;Austria;3;342;0;0;5;1;0;;1;4;231;13;0;1;M;0;1;English;0;FALSE;1;0;Central;11;70;0.6
+2018;Azerbaijan;;;0;0;;0;0;;1;11;94;1;0;1;M;0;1;English;0;FALSE;0;0;South-Eastern;28;5;1
+2018;Belarus;;;0;0;;0;0;;1;16;65;8;1;1;M;0;1;English;0;FALSE;0;0;Eastern;21;28;0.357142857
+2018;Belgium;;;0;0;;0;0;;1;12;91;4;0;1;F;0;1;English;0;FALSE;1;1;Western;16;143;0.428571429
+2018;Bulgaria;14;166;0;0;18;1;0;;1;7;177;10;0;0;Mixed;0;5;English;0;FALSE;1;1;Eastern;3;178;0.272727273
+2018;Croatia;;;0;0;;0;0;;1;17;63;12;0;1;F;0;1;English;0;FALSE;1;1;Southern;37;0;0.583333333
+2018;Cyprus;2;436;0;0;25;1;0;;1;2;262;19;0;1;F;0;1;English;1;FALSE;1;0;South-Eastern;1;106;0.538461538
+2018;Czech Republic;6;281;0;0;14;1;0;;1;3;232;5;1;1;M;0;1;English;0;FALSE;1;1;Central;5;181;0.166666667
+2018;Denmark;9;226;0;0;15;1;0;;2;5;204;5;1;1;M;0;1;English;1;FALSE;1;1;Northern;15;99;0.714285714
+2018;Estonia;8;245;0;0;6;1;0;;1;5;201;9;1;1;F;0;1;Italian;0;FALSE;1;1;Northern;6;88;0.357142857
+2018;Finland;25;46;0;0;17;1;0;;1;10;108;15;1;1;F;0;1;English;0;FALSE;1;0;Northern;8;226;0.5
+2018;France;13;173;0;0;13;1;1;;;;;;1;0;Mixed;0;2;French;0;TRUE;1;1;Western;4;352;
+2018;FYR Macedonia;;;0;0;;0;0;;1;18;24;11;0;0;Mixed;0;2;English;0;FALSE;0;1;Southern;25;15;0.357142857
+2018;Georgia;;;0;0;;0;0;;2;18;24;10;0;0;M;0;5;Georgian;0;TRUE;0;0;South-Eastern;42;0;0.7
+2018;Germany;4;340;0;0;11;1;1;;;;;;1;1;M;0;1;English;0;FALSE;1;1;Central;9;34;
+2018;Greece;;;0;0;;0;0;;1;14;81;14;0;1;F;0;1;Greek;0;TRUE;1;1;Southern;13;119;0.928571429
+2018;Hungary;21;93;0;0;21;1;0;;2;10;111;13;1;0;M;0;4;Hungarian;0;TRUE;1;1;Central;19;0;0.818181818
+2018;Iceland;;;0;0;;0;0;;1;19;15;2;1;1;M;0;1;English;0;FALSE;0;1;Northern;43;0;0.571428571
+2018;Ireland;16;136;0;0;24;1;0;;1;6;179;18;0;1;M;0;1;English;0;FALSE;1;0;Western;23;5;0.5
+2018;Israel;1;529;0;0;22;1;0;;1;1;283;7;1;1;F;0;1;English;1;TRUE;0;0;South-Eastern;2;456;0.571428571
+2018;Italy;5;308;0;0;26;1;1;;;;;;1;0;M;0;2;Italian;0;TRUE;1;1;Western;7;75;
+2018;Latvia;;;0;0;;0;0;;2;12;106;14;1;1;F;0;1;English;0;FALSE;1;1;Northern;33;3;0.428571429
+2018;Lithuania;12;181;0;0;4;1;0;;1;9;119;6;1;1;F;0;1;English;1;TRUE;1;1;Northern;17;5;0.571428571
+2018;Malta;;;0;0;;0;0;;2;13;101;12;1;1;F;0;1;English;0;FALSE;1;0;Western;32;0;0.571428571
+2018;Moldova;10;209;0;0;19;1;0;;2;3;235;7;1;0;Mixed;0;3;English;0;FALSE;0;0;Eastern;29;2;0.642857143
+2018;Montenegro;;;0;0;;0;0;;2;16;40;16;1;1;M;0;1;Montenegrin;0;TRUE;0;1;Southern;40;0;0.1
+2018;Netherlands;18;121;0;0;23;1;0;;2;7;174;8;0;1;M;1;1;English;0;FALSE;1;1;Western;30;0;0.357142857
+2018;Norway;15;144;0;0;7;1;0;;2;1;266;1;1;1;M;1;1;English;0;FALSE;0;1;Northern;26;13;0.785714286
+2018;Poland;;;0;0;;0;0;;2;14;81;11;1;0;M;0;2;English;0;FALSE;1;1;Eastern;34;5;0.5
+2018;Portugal;26;39;0;0;8;1;1;;;;;;1;1;F;0;1;Portuguese;0;TRUE;1;1;Western;20;0;0.333333333
+2018;Romania;;;0;0;;0;0;;2;11;107;2;1;0;Mixed;0;5;English;0;FALSE;1;1;Eastern;39;0;1
+2018;Russia;;;0;0;;0;0;;2;15;65;6;0;1;F;0;1;English;0;FALSE;0;0;Eastern;38;1;1
+2018;San Marino;;;0;0;;0;0;;2;17;28;4;1;0;F;0;2;English;0;FALSE;0;0;Western;41;0;125
+2018;Serbia;19;113;0;0;10;1;0;;2;9;117;3;1;0;Mixed;0;6;Serbian;1;TRUE;0;0;Southern;35;2;0.7
+2018;Slovenia;22;64;0;0;3;1;0;;2;8;132;17;1;1;F;0;1;Slovene;1;TRUE;1;1;Central;27;0;0.285714286
+2018;Spain;23;61;0;0;2;1;1;;;;;;1;0;Mixed;0;2;Spanish;0;TRUE;1;1;Western;24;26;
+2018;Sweden;7;274;0;0;20;1;0;;2;2;254;15;1;1;M;0;1;English;0;FALSE;1;0;Northern;12;91;0.928571429
+2018;Switzerland;;;0;0;;0;0;;1;13;86;17;1;0;Mixed;0;2;English;0;FALSE;0;0;Central;18;0;0.285714286
+2018;Ukraine;17;130;0;0;1;1;0;;2;6;179;18;1;1;M;0;1;English;0;FALSE;0;0;Eastern;10;19;1
+2018;United Kingdom;24;48;0;0;9;1;1;;;;;;1;1;F;0;1;English;0;TRUE;0;1;Western;31;4;
+2017;Albania;;;0;0;;0;0;;1;14;76;4;1;1;F;0;1;English;0;FALSE;0;1;Southern;24;0;0.538461538
+2017;Armenia;18;79;0;0;5;1;0;;1;7;152;16;1;1;F;0;1;English;0;FALSE;0;0;South-Eastern;14;7;0.9
+2017;Australia;9;173;0;0;14;1;0;;1;6;160;3;0;1;M;0;1;English;0;TRUE;0;0;Western;26;36;1
+2017;Austria;16;93;0;0;4;1;0;;2;7;147;2;0;1;M;0;1;English;0;FALSE;1;0;Central;25;14;0.555555556
+2017;Azerbaijan;14;120;0;0;12;1;0;;1;8;150;8;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;5;34;1
+2017;Belarus;17;83;0;0;3;1;0;;2;9;110;14;1;0;Mixed;0;2;Belarusian;0;TRUE;0;0;Eastern;17;15;0.307692308
+2017;Belgium;4;363;0;0;23;1;0;;1;4;165;5;0;1;F;0;1;English;0;FALSE;1;1;Western;1;335;0.384615385
+2017;Bulgaria;2;615;0;0;25;1;0;;2;1;403;15;0;1;M;0;1;English;0;FALSE;1;1;Eastern;2;120;0.2
+2017;Croatia;13;128;0;0;13;1;0;;2;8;141;11;0;1;M;0;1;English;1;FALSE;1;1;Southern;32;6;0.545454545
+2017;Cyprus;21;68;0;0;19;1;0;;1;5;164;15;0;1;M;0;1;English;0;FALSE;1;0;South-Eastern;19;13;0.5
+2017;Czech Republic;;;0;0;;0;0;;1;13;83;14;0;1;F;0;1;English;0;FALSE;1;1;Central;36;2;0.2
+2017;Denmark;20;77;0;0;10;1;0;;2;10;101;8;1;1;F;0;1;English;0;FALSE;1;1;Northern;10;43;0.692307692
+2017;Estonia;;;0;0;;0;0;;2;14;85;17;1;0;Mixed;1;2;English;0;FALSE;1;1;Northern;22;242;0.384615385
+2017;Finland;;;0;0;;0;0;;1;12;92;7;1;0;Mixed;0;2;English;0;FALSE;1;0;Northern;18;64;0.538461538
+2017;France;12;135;0;0;26;1;1;;;;;;0;1;F;0;1;French;1;TRUE;1;1;Western;4;277;
+2017;FYR Macedonia;;;0;0;;0;0;;2;15;69;3;0;1;F;0;1;English;0;FALSE;0;1;Southern;12;107;0.384615385
+2017;Georgia;;;0;0;;0;0;;1;11;99;2;1;1;F;0;1;English;0;FALSE;0;0;South-Eastern;30;4;0.777777778
+2017;Germany;25;6;0;1;21;1;1;;;;;;1;1;F;0;1;English;0;FALSE;1;1;Central;37;0;
+2017;Greece;19;77;0;0;15;1;0;;1;10;115;10;0;1;F;0;1;English;0;FALSE;1;1;Southern;29;6;0.923076923
+2017;Hungary;8;200;0;0;8;1;0;;2;2;231;7;1;1;M;0;1;Hungarian;0;TRUE;1;1;Central;11;40;0.8
+2017;Iceland;;;0;0;;0;0;;1;15;60;13;1;1;F;0;1;English;0;FALSE;0;1;Northern;31;9;0.615384615
+2017;Ireland;;;0;0;;0;0;;2;13;86;9;0;1;M;0;1;English;0;FALSE;1;0;Western;34;4;0.538461538
+2017;Israel;23;39;0;0;1;1;0;;2;3;207;18;1;1;M;0;1;English;0;FALSE;0;0;South-Eastern;21;102;0.538461538
+2017;Italy;6;334;0;0;9;1;1;;;;;;1;1;M;0;1;Italian;1;TRUE;1;1;Western;3;497;
+2017;Latvia;;;0;0;;0;0;;1;18;21;18;1;0;Mixed;0;4;English;0;FALSE;1;1;Northern;27;12;0.461538462
+2017;Lithuania;;;0;0;;0;0;;2;17;42;16;1;0;Mixed;0;3;English;0;FALSE;1;1;Northern;39;0;0.615384615
+2017;Malta;;;0;0;;0;0;;2;16;55;4;1;1;F;0;1;English;0;FALSE;1;0;Western;40;0;0.615384615
+2017;Moldova;3;374;0;0;7;1;0;;1;2;291;12;1;0;M;1;3;English;0;FALSE;0;0;Eastern;7;0;0.615384615
+2017;Montenegro;;;0;0;;0;0;;1;16;56;6;0;1;M;0;1;English;0;FALSE;0;1;Southern;35;17;0.111111111
+2017;Netherlands;11;150;0;0;6;1;0;;2;4;200;6;0;0;F;0;3;English;0;FALSE;1;1;Western;20;3;0.307692308
+2017;Norway;10;158;0;0;17;1;0;;2;5;189;12;1;1;M;0;1;English;0;FALSE;0;1;Northern;15;30;0.769230769
+2017;Poland;22;64;0;0;2;1;0;;1;9;119;11;1;1;F;0;1;English;0;FALSE;1;1;Eastern;23;4;0.454545455
+2017;Portugal;1;758;0;0;11;1;0;;1;1;370;9;1;1;M;0;1;Portuguese;0;TRUE;1;1;Western;6;122;0.272727273
+2017;Romania;7;282;0;0;20;1;0;;2;6;174;5;1;0;Mixed;0;2;English;0;FALSE;1;1;Eastern;16;18;1
+2017;San Marino;;;0;0;;0;0;;2;18;1;10;0;0;Mixed;1;2;English;0;FALSE;0;0;Western;41;5;0.142857143
+2017;Serbia;;;0;0;;0;0;;2;11;98;1;0;1;F;0;1;English;0;FALSE;0;0;Southern;28;3;0.777777778
+2017;Slovenia;;;0;0;;0;0;;1;17;36;17;1;1;M;1;1;English;0;FALSE;1;1;Central;42;0;0.307692308
+2017;Spain;26;5;1;1;16;1;1;;;;;;1;1;M;0;1;Spanish;1;TRUE;1;1;Western;38;0;
+2017;Sweden;5;344;0;0;24;1;0;;1;3;227;1;1;1;M;0;1;English;0;FALSE;1;0;Northern;8;308;0.923076923
+2017;Switzerland;;;0;0;;0;0;;2;12;97;13;1;0;Mixed;0;3;English;0;FALSE;0;0;Central;13;41;0.307692308
+2017;Ukraine;24;36;0;0;22;1;1;;;;;;1;0;M;0;4;English;0;FALSE;0;0;Eastern;33;0;1
+2017;United Kingdom;15;111;0;0;18;1;1;;;;;;1;1;F;0;1;English;0;TRUE;0;1;Western;9;12;
+2016;Albania;;;0;0;;0;0;;2;16;45;17;1;1;F;0;1;English;0;FALSE;0;1;Southern;32;0;0.583333333
+2016;Armenia;7;249;0;0;26;1;0;;1;2;243;7;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;5;13;0.888888889
+2016;Australia;2;511;0;0;13;1;0;;2;1;330;10;0;1;F;0;1;English;0;TRUE;0;0;Western;1;280;1
+2016;Austria;13;151;0;0;24;1;0;;1;7;170;12;1;1;F;0;1;French;0;FALSE;1;0;Central;11;128;0.5
+2016;Azerbaijan;17;117;0;0;4;1;0;;1;6;185;14;0;1;F;0;1;English;0;FALSE;0;0;South-Eastern;15;35;1
+2016;Belarus;;;0;0;;0;0;;2;12;84;5;1;1;M;0;1;English;0;FALSE;0;0;Eastern;29;0;0.333333333
+2016;Belgium;10;181;0;0;1;1;0;;2;3;274;18;1;1;F;0;1;English;0;FALSE;1;1;Western;12;2;0.333333333
+2016;Bosnia & Herzegovina;;;0;0;;0;0;;1;11;104;17;0;0;Mixed;1;4;Bosnian;0;FALSE;0;0;Southern;31;0;1
+2016;Bulgaria;4;307;0;0;8;1;0;;2;5;220;12;0;1;F;1;1;English;1;TRUE;1;1;Eastern;2;175;0.111111111
+2016;Croatia;23;73;0;0;17;1;0;;1;10;133;5;0;1;F;0;1;English;0;FALSE;1;1;Southern;16;63;0.5
+2016;Cyprus;21;96;0;0;14;1;0;;1;8;164;11;0;0;M;0;5;English;0;FALSE;1;0;South-Eastern;20;59;0.454545455
+2016;Czech Republic;25;41;0;0;2;1;0;;1;9;161;10;0;1;F;0;1;English;0;FALSE;1;1;Central;14;36;0
+2016;Denmark;;;0;0;;0;0;;2;17;34;13;1;0;M;0;3;English;0;FALSE;1;1;Northern;30;0;0.75
+2016;Estonia;;;0;0;;0;0;;1;18;24;13;1;1;M;0;1;English;0;FALSE;1;1;Northern;27;31;0.416666667
+2016;Finland;;;0;0;;0;0;;1;15;51;1;1;1;F;0;1;English;0;FALSE;1;0;Northern;37;0;0.583333333
+2016;France;6;257;0;0;11;1;1;;;;;;0;1;M;0;1;French;1;TRUE;1;1;Western;6;425;
+2016;FYR Macedonia;;;0;0;;0;0;;2;11;88;8;0;1;F;1;1;Macedonian;0;TRUE;0;1;Southern;34;6;0.416666667
+2016;Georgia;20;104;0;0;23;1;0;;2;9;123;16;1;0;M;0;4;English;0;FALSE;0;0;South-Eastern;28;0;0.75
+2016;Germany;26;11;0;0;10;1;1;;;;;;1;1;F;0;1;English;0;FALSE;1;1;Central;25;4;
+2016;Greece;;;0;0;;0;0;;1;16;44;2;0;0;Mixed;0;6;English;1;TRUE;1;1;Southern;38;0;1
+2016;Hungary;19;108;0;0;5;1;0;;1;4;197;4;1;1;M;0;1;English;0;FALSE;1;1;Central;8;80;0.777777778
+2016;Iceland;;;0;0;;0;0;;1;14;51;16;1;1;F;1;1;English;0;FALSE;0;1;Northern;17;44;0.666666667
+2016;Ireland;;;0;0;;0;0;;2;15;46;7;0;1;M;0;1;English;0;FALSE;1;0;Western;40;8;0.583333333
+2016;Israel;14;135;0;0;7;1;0;;2;7;147;4;1;1;M;0;1;English;0;FALSE;0;0;South-Eastern;23;4;0.5
+2016;Italy;16;124;0;0;6;1;1;;;;;;1;1;F;0;1;Italian;1;TRUE;1;1;Western;10;170;
+2016;Latvia;15;132;0;0;20;1;0;;2;8;132;1;1;1;M;0;1;English;0;FALSE;1;1;Northern;9;110;0.416666667
+2016;Lithuania;9;200;0;0;16;1;0;;2;4;222;9;1;1;M;1;1;English;0;FALSE;1;1;Northern;24;6;0.583333333
+2016;Malta;12;153;0;0;22;1;0;;1;3;209;18;1;1;F;1;1;English;0;FALSE;1;0;Western;21;6;0.583333333
+2016;Moldova;;;0;0;;0;0;;1;17;33;3;1;1;F;0;1;English;0;FALSE;0;0;Eastern;35;0;0.666666667
+2016;Montenegro;;;0;0;;0;0;;1;13;60;15;0;0;M;1;3;English;0;FALSE;0;1;Southern;42;0;125
+2016;Netherlands;11;153;0;0;3;1;0;;1;5;197;6;0;1;M;0;1;English;0;FALSE;1;1;Western;26;0;0.25
+2016;Norway;;;0;0;;0;0;;2;13;63;15;1;1;F;0;1;English;0;FALSE;0;1;Northern;22;15;0.833333333
+2016;Poland;8;229;0;0;12;1;0;;2;6;151;2;1;1;M;0;1;English;0;FALSE;1;1;Eastern;13;28;0.4
+2016;Russia;3;491;0;0;18;1;0;;1;1;342;9;0;1;M;0;1;English;0;FALSE;0;0;Eastern;3;392;1
+2016;San Marino;;;0;0;;0;0;;1;12;68;8;0;1;M;0;1;English;0;FALSE;0;0;Western;41;4;0.166666667
+2016;Serbia;18;115;0;0;15;1;0;;2;10;105;6;0;1;F;0;1;English;0;FALSE;0;0;Southern;19;42;0.75
+2016;Slovenia;;;0;0;;0;0;;2;14;57;11;1;1;F;0;1;English;0;FALSE;1;1;Central;39;6;0.333333333
+2016;Spain;22;77;0;0;19;1;1;;;;;;1;1;F;0;1;English;0;FALSE;1;1;Western;7;155;
+2016;Sweden;5;261;0;0;9;1;1;;;;;;1;1;M;0;1;English;0;FALSE;1;0;Northern;18;79;0.916666667
+2016;Switzerland;;;0;0;;0;0;;2;18;28;3;1;1;F;0;1;English;0;FALSE;0;0;Central;36;0;0.333333333
+2016;Ukraine;1;534;0;0;21;1;0;;2;2;287;14;1;1;F;0;1;English;1;FALSE;0;0;Eastern;4;88;1
+2016;United Kingdom;24;62;0;0;25;1;1;;;;;;1;0;M;0;2;English;0;TRUE;0;1;Western;33;0;
