@@ -36,3 +36,6 @@ mblearn.pipeline: Pipeline
 ## Contact
 Romy Koreman   
 romykoreman@live.nl
+
+## Link to Google Slides
+https://docs.google.com/presentation/d/1F97GkY0e4lJD3Xz8gNPSKpVqOvUxmU5JSKK2PiPGR60/edit?usp=sharing 
